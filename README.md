@@ -26,7 +26,7 @@
   
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/eclipse.svg" style="width : 8%;">
 
-
+ <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" style="width : 12%;">
   
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg" style="width : 8%;">
   
