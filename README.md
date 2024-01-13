@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🖥 I’m currently a CS student @ESTIN Bejaia <br /> 
+- 🖥 I’m currently a CS student @ISIMA Aubiere <br /> 
 
 ### My skills 🧩
 <div style="display: flex";>
